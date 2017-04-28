@@ -2,7 +2,7 @@ Basic Interpreter
 ========
 
 ## Description
-This program takes text file as input and executes instructions. Language is JavaScript-like.
+This program takes text file as input and executes instructions. Language is JavaScript-like. Use log() instead of console.log()
 
 #### How to compile
 ```shell
