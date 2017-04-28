@@ -11,5 +11,5 @@ g++ main.cpp -o runp
 
 #### How to run
 ```shell
-./runp TEXTFILE
+./runp YOUR_TEXTFILE
 ```
