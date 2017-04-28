@@ -8,3 +8,8 @@ This program takes text file as input and executes instructions. Language is Jav
 ```shell
 g++ main.cpp -o runp
 ```
+
+#### How to run
+```shell
+./runp TEXTFILE
+```
